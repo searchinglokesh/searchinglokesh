@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @midnightripper
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on data analysios projects
+- 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me 2019270@iiitdmj.ac.in
 
 <!---
