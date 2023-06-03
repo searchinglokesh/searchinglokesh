@@ -1,15 +1,14 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, ppl! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        Hey there! 👋 I'm K. Raghavendra Lokesh, a passionate learner in the field of Machine Learning and Artificial Intelligence. Currently, I'm on a mission to explore the fascinating world of ML/AI and expand my knowledge and skills.<br>
-        🎓 <b>Education:</b> I completed my Bachelor of Technology (B.Tech) degree from Indian Institute of Information Technology Design and Manufacturing (IIITDM) Jabalpur, where I acquired a solid foundation in computer science and engineering.<br>
-🔬 <b>Research Internship:</b> Currently, I'm engaged in a research internship at IIIT Hyderabad, where I have the amazing opportunity to work on cutting-edge projects and collaborate with experienced researchers. This internship is helping me dive deeper into the ML/AI realm and contribute to its advancements.<br>
-        💡 <b>Passion for ML/AI:</b> I firmly believe that ML/AI has the potential to revolutionize industries and address complex problems. I am enthusiastic about leveraging these technologies to drive innovation and make a positive impact.<br>
-        🌱 <b>Learning Journey:</b> I am actively pursuing continuous learning in ML/AI, exploring new concepts, algorithms, and frameworks. I enjoy keeping up with the latest trends and techniques in this rapidly evolving field.<br>
-        🤝 <b>Let's Connect:</b> I'm open to collaborations, learning opportunities, and connecting with fellow ML/AI enthusiasts. Feel free to reach out to me via email at [2019270@iiitdmj.ac.in] or connect with me on [LinkedIn](https://www.linkedin.com/in/kolla-lokesh-b8b994201/).<br>
-        ✨ <b>Join Me:</b> If you share a passion for ML/AI or have exciting ideas to collaborate on, I'd love to hear from you! Let's connect and embark on this incredible journey together.<br>
+        Hey there! 👋 I'm K. Raghavendra Lokesh, a passionate learner in the field of Machine Learning and Artificial Intelligence.<br> Currently, I'm on a mission to explore the fascinating world of ML/AI and expand my knowledge and skills.<br><br>
+        🎓 <b>Education:</b> I completed my Bachelor of Technology (B.Tech) degree from Indian Institute of Information Technology Design and Manufacturing (IIITDM) Jabalpur, where I acquired a solid foundation in computer science and engineering.<br><br>
+🔬 <b>Research Internship:</b> Currently, I'm engaged in a research internship at IIIT Hyderabad, where I have the amazing opportunity to work on cutting-edge projects and collaborate with experienced researchers. This internship is helping me dive deeper into the ML/AI realm and contribute to its advancements.<br><br>
+        💡 <b>Passion for ML/AI:</b> I firmly believe that ML/AI has the potential to revolutionize industries and address complex problems. I am enthusiastic about leveraging these technologies to drive innovation and make a positive impact.<br><br>
+        🌱 <b>Learning Journey:</b> I am actively pursuing continuous learning in ML/AI, exploring new concepts, algorithms, and frameworks. I enjoy keeping up with the latest trends and techniques in this rapidly evolving field.<br><br>
+        ✨ <b>Join Me:</b> If you share a passion for ML/AI or have exciting ideas to collaborate on, I'd love to hear from you! Let's connect and embark on this incredible journey together.<br><br>
     </i><br>
     <a href="https://www.linkedin.com/in/kolla-lokesh-b8b994201/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
