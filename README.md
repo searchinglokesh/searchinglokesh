@@ -85,7 +85,7 @@
 </details>
 
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/midnightripper">
     <img src="https://komarev.com/ghpvc/?username=midnightripper&color=blue&style=flat)" />
   </a>
 </p>
