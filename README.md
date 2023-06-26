@@ -16,7 +16,7 @@
     <a href="https://www.kaggle.com/kraghavendralokesh">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
-    <a href="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">
+    <a href="https://www.coursera.org/account/accomplishments/specialization/SJKFVKZ97GX9">
         <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera" width="80" height="20">
     </a>
     <a href="https://leetcode.com/2019270/">
