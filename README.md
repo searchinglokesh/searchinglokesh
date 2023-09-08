@@ -1,4 +1,4 @@
-<h1 align="center">Hi, ppl! <img src="https://github.com/midnightripper/midnightripper/assets/hi.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, peeps! <img src="https://github.com/midnightripper/midnightripper/blob/main/assets/hi.gif" width="150px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
